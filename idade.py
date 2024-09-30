@@ -6,6 +6,7 @@ idade = 2024 - ano
 # Exibe a idade calculada ao usuário
 print("A sua idade é:", idade)
 
+# Verifica a faixa etária do usuário com base na idade calculada
 # Verifica a faixa etária e imprime a mensagem correspondente
 if idade >= 65:
     print("És um sénior")
