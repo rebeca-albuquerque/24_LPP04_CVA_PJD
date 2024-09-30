@@ -10,6 +10,7 @@ print("A sua idade é:", idade)
 # Verifica a faixa etária e imprime a mensagem correspondente
 if idade >= 65:
     print("És um sénior")
+    # Caso contrário, se a idade for maior ou igual a 18 e menor que 65, exibe 'adulto'
 elif idade >= 18:
     print("És um adulto")
 else:
