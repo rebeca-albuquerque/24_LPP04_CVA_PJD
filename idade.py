@@ -1,6 +1,6 @@
 # Solicita que o usuário digite o ano de nascimento
 ano = int(input("Digite o ano de nascimento: "))
-
+# Calcula a idade subtraindo o ano de nascimento do ano atual (2024, neste caso)
 idade = 2024 - ano
 
 print("A sua idade é:", idade)
