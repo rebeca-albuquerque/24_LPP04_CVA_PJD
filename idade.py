@@ -16,6 +16,8 @@ elif idade >= 18:
 else:
     print("És uma criança")
 
+# Se a idade for menor que 18, exibe a mensagem de 'criança'
+
 ''' git diff: Mostra as diferenças entre arquivos alterados mas ainda não "stageados" ou entre commits.
 git commit: Salva as mudanças do staged area no repositório local com uma mensagem explicando as alterações.
 git merge: Combina alterações de uma branch com outra.
