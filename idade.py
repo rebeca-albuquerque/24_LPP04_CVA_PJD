@@ -3,6 +3,7 @@ ano = int(input("Digite o ano de nascimento: "))
 # Calcula a idade subtraindo o ano de nascimento do ano atual (2024, neste caso)
 idade = 2024 - ano
 
+# Exibe a idade calculada ao usuário
 print("A sua idade é:", idade)
 
 # Verifica a faixa etária e imprime a mensagem correspondente
